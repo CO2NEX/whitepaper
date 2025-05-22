@@ -21,8 +21,10 @@
 
 > 🚀 This is the first public milestone of CO2NEX. APIs, SDKs, and infrastructure are under active development.
 
-# ⚪ CO2NEX: Real-Time Carbon Credit Certification at Planetary Scale  
+# ⚪ CO2NEX Whitepaper  
 **Version 1.0 | May 2025**
+
+CO2NEX Whitepaper — Roadmap, vision, and infrastructure explained
 
 ---
 
